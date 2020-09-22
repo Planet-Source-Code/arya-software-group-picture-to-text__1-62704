@@ -1,0 +1,3 @@
+This program can translate bmp,jpg,ico,gif images to their equivalent text pattern, this program is written in vb 6 and it uses three methods for translating , first two methods are slow, but the third one (XRtf method) is very fast, it creates TextRtf then assigns it to RichTextBox's TextRtf property.Creating TextRtf is very fast but assigning it to RichTextBox's TextRtf property is slow! This program is useful for sending small images to softwares which do not support images. more image is bigger more time is needed. if you have enough time you can translate larger images. Please provide us with your feedbacks.Thank you in advance for your information & feedbacks .
+
+Arya Software Group
